@@ -1,0 +1,28 @@
+# Windows Forms ve Visual Studio geçici dosyalar
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/..
+bin/
+obj/
+
+# Visual Studio kullanıcı dosyaları
+.vs/
+.vscode/
+.idea/
+
+# Kullanıcı ayarları
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Derleme çıktıları
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Diğer
+Thumbs.db
+ehthumbs.db
